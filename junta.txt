@@ -1,0 +1,10 @@
+sourceman gestiona de sap, integracion con ALM.
+
+sesion de prueba con ALM y control de accesos
+
+application dessigner (tools8.48)  people soft.
+
+mañana 11 a.m.
+
+FAbian Lopez
+
